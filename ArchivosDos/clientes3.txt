@@ -1,0 +1,3 @@
+10 Rene Elzalde 200,20
+11 juan lasso 1000,20
+2 sdsd sdsdsa 1010,00
